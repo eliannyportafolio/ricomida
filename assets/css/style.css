@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    pad: 0;
+font-family: 'Cabin', sans-serif;
+font-family: 'Lobster', sans-serif;
+font-family: 'Lobster Two', sans-serif;
+}
+.navbar{
+    background: #373A3C;
+}
+.navbar-brand{
+    font-family: 'Lobster', sans-serif;
+}
+
+hr{
+    background-color: #373A3C;
+    height: 3px;
+   
+}
+.card-img{
+    object-fit:cover;
+    height: 100%;
+}
+ul{
+    list-style:none;
+
+}
+ 
+h2{
+    text-decoration: underline;
+}
+h3{
+   color: #373A3C;
+}
+.manito{
+    cursor: pointer;
+}
+.toogle{
+    text-decoration: none;
+    color: #373A3C;
+}
+.suscribete{
+    background: #DC3545;
+}
+#ricomida{
+    font-family: 'Lobster', sans-serif;
+    font-size:30px;
+    color: white;
+}
+footer{
+    background: #373A3C;
+}
